@@ -6,7 +6,7 @@
     "dev": "astro dev"
   },
   "dependencies": {
-    "astro": "4.11.0",
+    "astro": "4.11.1",
     "typescript": "5.5.2"
   }
 }
